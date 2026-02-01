@@ -1,6 +1,7 @@
+streamlit==1.19.0
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-streamlit
+altair==4.2.2
