@@ -1,0 +1,4 @@
+data/*.csv
+*.ipynb
+__pycache__/
+.vscode/

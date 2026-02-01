@@ -1,0 +1,15 @@
+Date,Task,Category,Time_Spent_Min,Priority,Completed,Mood
+2024-01-01,Email Cleanup,Communication,30,Low,1,Neutral
+2024-01-01,Code Review,Development,90,High,1,Focused
+2024-01-02,Team Meeting,Management,60,Medium,0,Tired
+2024-01-02,Feature Coding,Development,120,High,1,Focused
+2024-01-03,Documentation,Documentation,45,Medium,1,Calm
+2024-01-03,Bug Fixing,Development,80,High,1,Focused
+2024-01-04,Planning Sprint,Management,50,Medium,1,Neutral
+2024-01-04,Learning New Tool,Learning,70,Low,1,Curious
+2024-01-05,Client Call,Communication,40,High,0,Stressed
+2024-01-05,Refactoring Code,Development,100,High,1,Focused
+2024-01-06,Write Report,Documentation,60,Medium,1,Calm
+2024-01-06,Research Ideas,Learning,90,Low,1,Curious
+2024-01-07,Standup Meeting,Management,20,Low,1,Neutral
+2024-01-07,Debug Issue,Development,110,High,1,Focused
